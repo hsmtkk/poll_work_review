@@ -1,0 +1,14 @@
+<form class="simple_form session" action="/mentor/sessions" accept-charset="UTF-8" method="post">
+<input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="authenticity_token" value="wGoe0Ja1Ob28e2f4Iuwl+v1OE7DC2CEA7BoTcez8jw1I7KAyfhQYCJWctbomYW/8imO967trGSGFyW4z1ZzAog==" />
+<div class="form-group email required session_email">
+<label class="email required control-label" for="session_email"><abbr title="required">*</abbr> メールアドレス</label>
+<input class="string email required form-control" required="required" aria-required="true" type="email" name="session[email]" id="session_email" />
+</div>
+<div class="form-group password required session_password">
+<label class="password required control-label" for="session_password">
+<abbr title="required">*</abbr> パスワード</label>
+<input class="password required form-control" required="required" aria-required="true" type="password" name="session[password]" id="session_password" />
+</div><input type="submit" name="commit" value="ログインする" class="btn btn btn-success" data-disable-with="ログインする" /></form></div></div></div></div></body></html>
+
+set-cookie: _billy_session=YUtteXI5cGpJZzJQMTdsVHV0NkEvbm9MSE85SGJXVTVzQWJ5NHY1STZsWVk0cS9DdXEybHV6NGh0QmdWTER4UUlqWTRMSitBUVZobFdGTVFiS0xHNXBObnYxeVVzc3htT0dIS3VzeVVjajNzWlJzYnlldHhPWCt0SllVT0QxMUpZcmZGTWl1V3JnUG1VaWVhNTVBNlJBS1RZMnN4RXhoelZLdGlsc2JyN1FTbUtVUVdoaDhkckNidXIzd0pjemxKTXpSMDQxd0VJNWZKNWU4eHJNZzlQSEw1QUI1cTdzTHk2ODZYWXhtWEZQakU5Z2d4RmxWcHNITm5lTkxUeENsbWpHcFdDeEl4OFBPMERTdVBGaE9mdEE9PS0tSXpCTytvOEZTaUdGenY4M3AwTEFvQT09--364084c99d1ce52a027f092ed4ef9e145cb8dd96; path=/; HttpOnly
